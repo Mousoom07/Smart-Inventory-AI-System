@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Developed By  
 **Mousoom Samanta**
-Copyright to Mousoom 2026
+(Copyright 2026)
 ---
 
 ## 🧠 Project Overview  
