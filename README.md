@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Developed By  
 **Mousoom Samanta**
-
+Copyright to Mousoom 2026
 ---
 
 ## 🧠 Project Overview  
@@ -124,10 +124,21 @@ Built using **Streamlit**, the dashboard includes:
 
 ---
 
+## 📸 Screenshot
+
+<img width="1899" height="909" alt="image" src="https://github.com/user-attachments/assets/3c3bc0c8-889c-4c94-a529-e7f2b7432bad" />
+<img width="1393" height="852" alt="image" src="https://github.com/user-attachments/assets/ea556b49-4762-42e9-9c7f-51dee4a10887" />
+<img width="1304" height="735" alt="image" src="https://github.com/user-attachments/assets/d6354719-c423-479a-a1bd-4662f5692ff9" />
+<img width="1380" height="873" alt="image" src="https://github.com/user-attachments/assets/00b1e550-eb2f-4da6-b5eb-730940b71c0b" />
+<img width="1543" height="690" alt="image" src="https://github.com/user-attachments/assets/867c411c-ab96-401d-8fb4-34cee212271a" />
+<img width="1572" height="906" alt="image" src="https://github.com/user-attachments/assets/c61d7ffb-6d65-4bb7-ad40-22894f86d6a9" />
+
+---
+
 ## 🚀 How to Run  
 
 ```bash
 git clone https://github.com/Mousoom07/Smart-Inventory-AI-System.git
 cd Smart-Inventory-AI-System
 pip install -r requirements.txt
-streamlit run dashboard/app.py
+python streamlit run dashboard/app.py
